@@ -1,3 +1,11 @@
 body {
+background-color: powderblue;
+}body {
+  color: blue;
+}
 
+h1 {
+  color: navy;
+  text-decoration-line: underline;
+	 font-family: "Lucida Console", "Courier New", monospace;
 }
